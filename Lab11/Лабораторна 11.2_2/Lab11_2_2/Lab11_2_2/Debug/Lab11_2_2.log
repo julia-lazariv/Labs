@@ -1,0 +1,4 @@
+﻿  Lab11_2_2.cpp
+c:\users\andriy halelyuka\desktop\lab11_2_2\lab11_2_2\lab11_2_2.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andriy halelyuka\desktop\lab11_2_2\lab11_2_2\lab11_2_2.cpp(106): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long double', possible loss of data
+  Lab11_2_2.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab11_2_2\Debug\Lab11_2_2.exe
