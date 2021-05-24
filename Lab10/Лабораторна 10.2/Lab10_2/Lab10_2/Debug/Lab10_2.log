@@ -1,0 +1,4 @@
+﻿  Lab10_2.cpp
+c:\users\andriy halelyuka\desktop\lab10_2\lab10_2\lab10_2.cpp(107): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\andriy halelyuka\desktop\lab10_2\lab10_2\lab10_2.cpp(108): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab10_2.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab10_2\Debug\Lab10_2.exe
