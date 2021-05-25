@@ -1,0 +1,9 @@
+﻿  Lab11_3_2.cpp
+c:\users\andriy halelyuka\desktop\lab11_3_2\lab11_3_2\lab11_3_2.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab11_3_2\lab11_3_2\lab11_3_2.cpp(190): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\andriy halelyuka\desktop\lab11_3_2\lab11_3_2\lab11_3_2.cpp(214): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\andriy halelyuka\desktop\lab11_3_2\lab11_3_2\lab11_3_2.cpp(262): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\andriy halelyuka\desktop\lab11_3_2\lab11_3_2\lab11_3_2.cpp(294): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\andriy halelyuka\desktop\lab11_3_2\lab11_3_2\lab11_3_2.cpp(338): warning C4101: 'ikurs': unreferenced local variable
+c:\users\andriy halelyuka\desktop\lab11_3_2\lab11_3_2\lab11_3_2.cpp(341): warning C4101: 'iMath': unreferenced local variable
+  Lab11_3_2.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab11_3_2\Debug\Lab11_3_2.exe
