@@ -1,0 +1,15 @@
+1{P.Y^Nykolyak}
+1{J.Z^Lesyn}
+1{J.Z^Marchyshyn}
+1{O.E^Nuchepura}
+1{J.Z^Nykolyak}
+2{O.E^Senechko}{O.E^Nuchepura}
+2{X,Y^Makovetska}{T.K^Nykolyak}
+2{J.Z^Tkachenko}{V.I^Lesyn}
+2{M.O^Nuchepura}{X,Y^Senechko}
+2{M.O^Tsymbala}{V.I^Tsymbala}
+2{V.I^Lesyn}{K,I^Tsymbala}
+2{P.Y^Lesyn}{J.Z^Petrenko}
+2{X,Y^Tkachenko}{O.E^Tsymbala}
+2{K,I^Makovetska}{X,Y^Nykolyak}
+2{V.V^Matskiv}{X,Y^Marchyshyn}
