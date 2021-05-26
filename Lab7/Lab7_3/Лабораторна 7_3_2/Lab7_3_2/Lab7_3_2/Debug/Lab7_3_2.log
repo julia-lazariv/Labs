@@ -1,0 +1,4 @@
+﻿  Lab7_3_2.cpp
+c:\users\andriy halelyuka\desktop\lab7_3_2\lab7_3_2\lab7_3_2.cpp(68): warning C4715: 'Nul': not all control paths return a value
+c:\users\andriy halelyuka\desktop\lab7_3_2\lab7_3_2\lab7_3_2.cpp(79): warning C4715: 'NumberNull': not all control paths return a value
+  Lab7_3_2.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab7_3_2\Debug\Lab7_3_2.exe

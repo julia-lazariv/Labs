@@ -1,0 +1,4 @@
+﻿  Lab7_3_4.cpp
+c:\users\andriy halelyuka\desktop\lab7_3_4\lab7_3_4\lab7_3_4.cpp(75): warning C4715: 'Nul': not all control paths return a value
+c:\users\andriy halelyuka\desktop\lab7_3_4\lab7_3_4\lab7_3_4.cpp(84): warning C4715: 'Sum': not all control paths return a value
+  Lab7_3_4.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab7_3_4\Debug\Lab7_3_4.exe
