@@ -1,0 +1,3 @@
+﻿  Lab11_1.cpp
+c:\users\andriy halelyuka\desktop\lab11_1\lab11_1\lab11_1.cpp(60): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab11_1.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab11_1\Debug\Lab11_1.exe
