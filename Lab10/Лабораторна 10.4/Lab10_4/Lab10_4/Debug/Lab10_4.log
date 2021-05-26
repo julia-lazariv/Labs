@@ -1,0 +1,6 @@
+﻿  Lab10_4.cpp
+c:\users\andriy halelyuka\desktop\lab10_4\lab10_4\lab10_4.cpp(22): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\andriy halelyuka\desktop\lab10_4\lab10_4\lab10_4.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andriy halelyuka\desktop\lab10_4\lab10_4\lab10_4.cpp(48): warning C4101: 'prevsize': unreferenced local variable
+c:\users\andriy halelyuka\desktop\lab10_4\lab10_4\lab10_4.cpp(48): warning C4101: 'size': unreferenced local variable
+  Lab10_4.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab10_4\Debug\Lab10_4.exe
