@@ -1,0 +1,8 @@
+﻿  Lab12_5.cpp
+c:\users\andriy halelyuka\desktop\lab12_5\lab12_5\lab12_5.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab12_5\lab12_5\lab12_5.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab12_5\lab12_5\lab12_5.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab12_5\lab12_5\lab12_5.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab12_5\lab12_5\lab12_5.cpp(113): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\andriy halelyuka\desktop\lab12_5\lab12_5\lab12_5.cpp(114): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab12_5.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab12_5\Debug\Lab12_5.exe
