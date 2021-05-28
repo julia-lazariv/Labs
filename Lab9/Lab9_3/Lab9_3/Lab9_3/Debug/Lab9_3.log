@@ -1,0 +1,10 @@
+﻿  Lab9_3.cpp
+c:\users\andriy halelyuka\desktop\lab9_3\lab9_3\lab9_3.cpp(51): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\andriy halelyuka\desktop\lab9_3\lab9_3\lab9_3.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andriy halelyuka\desktop\lab9_3\lab9_3\lab9_3.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab9_3\lab9_3\lab9_3.cpp(297): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab9_3\lab9_3\lab9_3.cpp(314): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab9_3\lab9_3\lab9_3.cpp(316): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab9_3\lab9_3\lab9_3.cpp(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriy halelyuka\desktop\lab9_3\lab9_3\lab9_3.cpp(337): warning C4018: '<': signed/unsigned mismatch
+  Lab9_3.vcxproj -> C:\Users\Andriy Halelyuka\Desktop\Lab9_3\Debug\Lab9_3.exe
